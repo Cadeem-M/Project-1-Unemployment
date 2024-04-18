@@ -77,8 +77,8 @@ Project board link: https://github.com/users/SmallCad/projects/1/views/1
 *Project board on Github*
 
 ## Resources
-Statistics Canada. Table 14-10-0287-03  Labour force characteristics by province, monthly, seasonally adjusted
-Statistics Canada. Table 17-10-0014-01  Estimates of the components of international migration, by age and gender, annual
-Statistics Canada. Table 11-10-0224-01  Household spending by household type
-Statistics Canada. Table 23-10-0251-01  Passenger bus and urban transit statistics, by the North American Industry Classification System (NAICS) (x 1,000,000)
-Yan Holtz. Dual Y axis with Python and Matplotlib. https://python-graph-gallery.com/line-chart-dual-y-axis-with-matplotlib/
+- Statistics Canada. Table 14-10-0287-03  Labour force characteristics by province, monthly, seasonally adjusted
+- Statistics Canada. Table 17-10-0014-01  Estimates of the components of international migration, by age and gender, annual
+- Statistics Canada. Table 11-10-0224-01  Household spending by household type
+- Statistics Canada. Table 23-10-0251-01  Passenger bus and urban transit statistics, by the North American Industry Classification System (NAICS) (x 1,000,000)
+- Yan Holtz. Dual Y axis with Python and Matplotlib. https://python-graph-gallery.com/line-chart-dual-y-axis-with-matplotlib/
